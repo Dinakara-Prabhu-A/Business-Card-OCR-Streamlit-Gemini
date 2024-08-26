@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+Pillow
+google-generativeai
+streamlit-option-menu
+pandas
+numpy
